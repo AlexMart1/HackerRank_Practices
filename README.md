@@ -19,6 +19,7 @@ All exercises are solved with Python 3. Code was edited to work in a Jupyter not
     - ArraysDS
     - 2DArray
     - DynamicArray
+    - LeftRotation
 
 ## References
 
