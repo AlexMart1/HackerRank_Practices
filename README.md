@@ -16,7 +16,9 @@ All exercises are solved with Python 3. Code was edited to work in a Jupyter not
 ## Index
 
 - Data structures  
-    - Arrays
+    - ArraysDS
+    - 2DArray
+    - DynamicArray
 
 ## References
 
